@@ -1,0 +1,8 @@
+[package]
+name = "rust-with-gitpod"
+version = "0.1.0"
+authors = ["wass88 <wasss80@gmail.com>"]
+
+[dependencies]
+rocket = "0.1.4"
+rocket_codegen = "0.1.4"

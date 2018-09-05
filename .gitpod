@@ -1,4 +1,4 @@
-image: rust
+image: rustlang/rust:nightly
 ports:
   - port: 8080
     protocol: "http"
