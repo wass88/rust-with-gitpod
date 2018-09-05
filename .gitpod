@@ -1,0 +1,4 @@
+image: rust
+ports:
+  - port: 8080
+    protocol: "http"
